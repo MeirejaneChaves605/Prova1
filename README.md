@@ -34,6 +34,9 @@ Seu programa deve imprimir a lista de times que será formada ao final do proces
 
 Os times serão escolhidos pelo computador, então não é necessário considerar o aluno que irá fazer a escolha dos times.
 
+
+#  Com exemplos de Entrada e exemplos de Saída que saão as seguintes:
+
 Exemplos de Entrada	Exemplos de Saída
 14 3
 
@@ -126,5 +129,7 @@ rupert
 
 Time 3
 
-john
+john 
+
+
 
