@@ -1,5 +1,5 @@
 # Prova1   🚀 
-A primeira avaliação do cueso de 	Desenvolvimento de Software com Formação BackEnd - Python com Django- Campus Riacho Fundo (1º ciclo)
+A primeira avaliação do curso de 	Desenvolvimento de Software com Formação BackEnd - Python com Django- Campus Riacho Fundo (1º ciclo)
 ministrado pelo o professor Henrique Pereira consistem em:
 
 Faça o exercício 2370 do Beecrowd, insira o código em um repositório local do Git e posteriormente envie para um repositório remoto no GitHub.
